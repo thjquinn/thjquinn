@@ -1,13 +1,7 @@
-## About Me
+## Tom Quinn
 
+I'm a graduate of the University of Notre Dame with an M.S. in Business Analytics and a background in economics. I currently work in marketing analytics at a financial services firm.
 
+I'm interested in data science and machine learning, particularly how they can be applied to solve real-world problems. I use GitHub to document what I'm learning, experiment with new techniques, and continue developing my technical skills.
 
-
-
-
-- 🌱 I’m currently learning how to use programs such as Python, R, SQL, and Tableau to make data-driven insights
-- 👯 I’m looking to collaborate on sports analytics based projects
-
-- 📫 How to reach me: tquinn6@nd.edu
-
-- ⚡ Fun fact: I am a lifetime Notre Dame fan
+**Tools I work with:** Python, SQL, PostgreSQL, scikit-learn, XGBoost, Streamlit, and Tableau.
